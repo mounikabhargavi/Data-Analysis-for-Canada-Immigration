@@ -1,6 +1,3 @@
-#Module 1 R practice week 1
-print("Module 1- Week 1")
-
 #Installing packages
 install.packages("tidyverse")
 library("tidyverse")
